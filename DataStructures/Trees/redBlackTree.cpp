@@ -1,3 +1,13 @@
+/* DESCRIPTION OF PROGRAM
+
+    This program implements a left-leaning red-black binary search tree.
+    Code was written by myself, but follows the code found here: 
+    https://algs4.cs.princeton.edu/33balanced/RedBlackBST.java.html
+    
+    Further understanding of the code was achieved through these lecture slides: 
+    https://algs4.cs.princeton.edu/lectures/keynote/33BalancedSearchTrees.pdf
+*/
+
 #include <iostream>
 #include <string.h>
 using namespace std;

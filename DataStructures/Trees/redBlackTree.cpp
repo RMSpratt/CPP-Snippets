@@ -586,9 +586,9 @@ int main() {
     // testTree->put(5,"Echo");
     // testTree->put(8,"Hotel");
     // testTree->put(11,"Kilo");
-    // testTree->put(12,"Larry");
+    // testTree->put(12,"Lima");
     // testTree->put(13,"Mike");
-    // testTree->put(17,"Ridley");
+    // testTree->put(17,"Romeo");
     // testTree->put(18,"Sierra");
     // testTree->put(26,"Zulu");
 
@@ -609,7 +609,6 @@ int main() {
     // testTree->remove(1);
     // testTree->remove(5);
     // testTree->remove(3);
-    // testTree->printPreorder();
     // testTree->remove(6);
     // testTree->remove(8);
     // testTree->remove(11);
